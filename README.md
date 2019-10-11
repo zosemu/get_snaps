@@ -1,7 +1,7 @@
 # get_snaps
 Reload the Apps installed with Snap on KDE
 
-git clone https://github/zosemu/get_snaps
+git clone https://github/zosemu/get_snaps.git
 
 cd get_snaps 
 
