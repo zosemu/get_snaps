@@ -17,6 +17,6 @@ if k == 'root':
             e = "cp {}{} {}{}".format(path_snap,x,path_kde,x)
             os.popen(e)
             s += 1
-    print "[+] Apps founded: {}\n[+] Apps copied: {}".format(len(o),e)
+    print "[+] Apps founded: {}\n[+] Apps copied: {}".format(len(o),s)
 else:
     print "Run the script as root!!"
